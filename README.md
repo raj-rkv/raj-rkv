@@ -22,7 +22,6 @@
 ---
 
 - 🔭 Currently working on **@2-BIT Paathshala** – a free education initiative to empower underserved learners.
-- 🌱 Learning **Spring Boot**, enhancing backend and microservices knowledge.
 - 💬 Ask me about **DevOps, Bash, GitLab CI/CD, Docker, Kubernetes, Mobile DevOps, Fastlane, FastAPI, AWS, Java, C++, Linux**.
 - 📫 Reach out to me at **eng.rkvofficial@gmail.com**
 
@@ -62,7 +61,7 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.cloudflare.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/></a>
-  <a href="https://fastlane.tools/" target="_blank"><img src="https://seeklogo.com/images/F/fastlane-logo-D5B2E40930-seeklogo.com.png" alt="Fastlane" width="40" height="40"/></a>
+  <a href="https://fastlane.tools/" target="_blank"><img src="![17508337099228979859001106810439](https://github.com/user-attachments/assets/1a37f7bd-dbf6-49b1-9672-5be9ca07de9c)" alt="Fastlane" width="40" height="40"/></a>
 </p>
 
 ---
