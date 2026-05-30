@@ -16,21 +16,12 @@ Currently building [travsr](https://travsr.com) — a graph-native code intellig
 
 **Databases** &nbsp;&nbsp; SQLite &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; PostgreSQL
 
-## Selected Projects
+## Projects
 
 **[travsr](https://github.com/raj-rkv/travsr)** &nbsp; Graph-native code intelligence for AI agents. Tree-sitter parsing, BFS/PPR graph traversal, MCP stdio + SSE server. Written in Rust.
 
-**[UserManagementAPI](https://github.com/raj-rkv/UserManagementAPI)** &nbsp; REST API for user lifecycle management. Java, Spring Boot.
-
-**[University-Event-API](https://github.com/raj-rkv/University-Event-API)** &nbsp; Backend API for university event scheduling. Java.
-
-**[AgriNex](https://github.com/raj-rkv/AgriNex)** &nbsp; Production web presence for an Indian agricultural exporter. Vanilla JS, zero dependencies.
-
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=raj-rkv&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raj-rkv&layout=compact&hide_border=true&theme=default" height="155" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raj-rkv&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=555555)
 
-<img src="https://komarev.com/ghpvc/?username=raj-rkv&style=flat-square&color=grey" alt="profile views" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=raj-rkv&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333)
